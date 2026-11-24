@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" fill="none">
+  <defs>
+    <linearGradient id="sky" x1="800" y1="0" x2="800" y2="1000" gradientUnits="userSpaceOnUse"><stop stop-color="#E9E1D2"/><stop offset=".47" stop-color="#A9AF97"/><stop offset="1" stop-color="#3B503C"/></linearGradient>
+    <linearGradient id="hill" x1="800" y1="300" x2="800" y2="1000" gradientUnits="userSpaceOnUse"><stop stop-color="#89927B"/><stop offset="1" stop-color="#314734"/></linearGradient>
+    <radialGradient id="mist" cx="0" cy="0" r="1" gradientTransform="matrix(0 430 -850 0 800 370)" gradientUnits="userSpaceOnUse"><stop stop-color="#FAF8F5" stop-opacity=".72"/><stop offset="1" stop-color="#FAF8F5" stop-opacity="0"/></radialGradient>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h1600v1000H0z"/>
+  <path fill="#69755F" fill-opacity=".72" d="m0 488 170-172 155 135 204-238 201 231 187-161 182 183 168-221 181 158 152-139v736H0V488Z"/>
+  <path fill="url(#hill)" d="m0 610 175-157 169 122 188-179 196 173 207-165 166 143 204-173 295 195v431H0V610Z"/>
+  <path fill="#2D4030" fill-opacity=".72" d="m0 765 195-170 154 104 176-120 205 168 188-135 178 111 187-145 317 164v258H0V765Z"/>
+  <path fill="url(#mist)" d="M0 0h1600v800H0z"/>
+  <path d="M0 475c190-60 310 37 495-7s309-45 488 9 352 32 617-14M0 532c190-60 310 37 495-7s309-45 488 9 352 32 617-14" stroke="#FAF8F5" stroke-opacity=".32" stroke-width="12"/>
+  <g fill="#F5EBE0" fill-opacity=".8"><circle cx="1260" cy="222" r="7"/><circle cx="1296" cy="250" r="4"/><circle cx="1229" cy="263" r="5"/><circle cx="1335" cy="206" r="5"/><circle cx="1190" cy="225" r="3"/></g>
+</svg>
